@@ -25,5 +25,7 @@ This is a Java-based Student Management System that supports both **console** an
 ### Console Version
 
 ```bash
-javac Student.java StudentDataStore.java StudentManagementSystem.java
+javac Student.java StudentDataStore.java StudentManagementSystem.java StudentManagementGUI.java
 java StudentManagementSystem
+java StudentManagementGUI.java
+
